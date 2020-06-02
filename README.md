@@ -1,4 +1,4 @@
-# What's new in TensorFlow 2.0 Little changhe done!
+# What's new in TensorFlow 2.0 oops I made a mistake! let's change it again! :)
 
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
 
